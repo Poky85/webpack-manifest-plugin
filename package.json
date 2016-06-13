@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/danethurber/webpack-manifest-plugin",
   "dependencies": {
-    "lodash": "^3.5.0"
+    "lodash": "^3.5.0",
+    "yamljs": "^0.2.7"
   }
 }
